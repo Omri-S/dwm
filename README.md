@@ -12,9 +12,6 @@ I haven't kept `man dwm`/`dwm.1` updated though. PRs welcome on that, lol.
 
 ## Patches and features
 
-- Clickable statusbar with my build of [dwmblocks](https://github.com/lukesmithxyz/dwmblocks).
-- Reads xresources colors/variables (i.e. works with `pywal`, etc.).
-- scratchpad: Accessible with mod+shift+enter.
 - New layouts: bstack, fibonacci, deck, centered master and more. All bound to keys `super+(shift+)t/y/u/i`.
 - True fullscreen (`super+f`) and prevents focus shifting.
 - Windows can be made sticky (`super+s`).
