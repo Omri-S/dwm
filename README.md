@@ -1,4 +1,4 @@
-# Luke's build of dwm
+# Omri's build of dwm (forked)
 
 ## FAQ
 
